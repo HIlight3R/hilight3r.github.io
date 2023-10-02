@@ -13,18 +13,16 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '>=16.12.0'
-          cache: 'pnpm'
-      - name: Install pnpm
-        run: npm install -g pnpm
+          cache: 'npm'
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Check for linting errors
-        run: pnpm test
+        run: npm test
 
       - name: Build production website
-        run: pnpm run build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

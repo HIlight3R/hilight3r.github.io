@@ -1,6 +1,65 @@
+# Configuration
 baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+title: HIlight3R's hub
+
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+# hasCJKLanguage: false
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  ru:
+    languageName: Русский
+    weight: 2
+    title: Хаб HIlight3R'а
+
 module:
   imports:
     - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: Search
+      weight: 1
+      params:
+        type: search
+    - name: GitHub
+      weight: 2
+      url: https://github.com/HIlight3R
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      # dark: images/logo-dark.svg
+      width: 48
+      height: 48
+      # link: /
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  search:
+    enable: true
+
+  editURL:
+    enable: true
+    base: "https://github.com/HIlight3R/hilight3r.github.io/edit/master/content"

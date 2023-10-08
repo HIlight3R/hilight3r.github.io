@@ -1,6 +1,5 @@
 ---
 title: 'Обо мне'
-toc: false
 excludeSearch: true
 ---
 

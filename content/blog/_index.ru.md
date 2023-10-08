@@ -1,0 +1,4 @@
+---
+title: Блог
+excludeSearch: true
+---

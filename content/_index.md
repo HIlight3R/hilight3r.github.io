@@ -74,7 +74,6 @@ I consider this step no less important than any other. It is through self-study 
 {{< /timeline >}}
 
 ## My projects
-
 {{< github repo="HIlight3R/Dominator" >}}
 <br>
 {{< github repo="HIlight3R/HEXYZ" >}}

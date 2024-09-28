@@ -76,7 +76,6 @@ description: "Это главная страница моего сайта."
 {{< /timeline >}}
 
 ## Мои проекты
-
 {{< github repo="HIlight3R/Dominator" >}}
 <br>
 {{< github repo="HIlight3R/HEXYZ" >}}

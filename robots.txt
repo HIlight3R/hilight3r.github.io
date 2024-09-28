@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hilight3r.is-a.dev/sitemap.xml

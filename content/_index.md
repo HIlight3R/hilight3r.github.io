@@ -9,22 +9,22 @@ at the IT department of RTU MIREA, constantly exploring new technologies and imp
 open-source projects, and I'm always looking for new opportunities to contribute to the community.
 
 ## My hard-skills...
-- :computer:                **Code in**: Java, Kotlin, Python, SQL, HTML, CSS
-- :hammer_and_wrench:       **Frameworks**: Spring, Django, Flask, Bukkit
-- :wrench:                  **Tools**: Git, GitHub, Docker
-- :floppy_disk:             **Databases**: MySQL, SQLite, H2
-- :spiral_notepad:          **IDEs**: IntelliJ IDEA, PyCharm, VS Code
-- :desktop_computer:        **Operating Systems**: Windows, Linux
-- :globe_with_meridians:    **Languages**: Russian (native), English (B1)
-- :books:                   **Currently learning**: C++, IoT, GitHub Workflows, CI/CD
+- :computer: **Code in**: Java, Kotlin, Python, SQL, HTML, CSS
+- :hammer_and_wrench: **Frameworks**: Spring, Django, Flask, Bukkit
+- :wrench: **Tools**: Git, GitHub, Docker
+- :floppy_disk: **Databases**: MySQL, SQLite, H2
+- :spiral_notepad: **IDEs**: IntelliJ IDEA, PyCharm, VS Code
+- :desktop_computer: **Operating Systems**: Windows, Linux
+- :globe_with_meridians: **Languages**: Russian (native), English (B1)
+- :books: **Currently learning**: C++, IoT, GitHub Workflows, CI/CD
 
 ## ...and soft-skills
-- :jigsaw:          **Problem-solving**: I love solving interesting tasks and finding the most efficient solutions to them.
-- :handshake:       **Teamwork**: I enjoy working in a team and always try to help my teammates.
-- :speech_balloon:  **Communication**: I am always open to feedback and can explain complex things in simple terms.
-- :art:             **Creativity**: Creative thinking helps me find unconventional solutions to problems.
-- :repeat:          **Adaptability**: I am not afraid of difficulties and can adapt to new situations.
-- :rocket:          **Fast learner**: I have no difficulties in mastering new technologies and tools.
+- :jigsaw: **Problem-solving**: I love solving interesting tasks and finding the most efficient solutions to them.
+- :handshake: **Teamwork**: I enjoy working in a team and always try to help my teammates.
+- :speech_balloon: **Communication**: I am always open to feedback and can explain complex things in simple terms.
+- :art: **Creativity**: Creative thinking helps me find unconventional solutions to problems.
+- :repeat: **Adaptability**: I am not afraid of difficulties and can adapt to new situations.
+- :rocket: **Fast learner**: I have no difficulties in mastering new technologies and tools.
 
 
 ## My education

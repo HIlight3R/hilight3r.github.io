@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "HIlight3R"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+copyright = "Copyright © 2024 HIlight3R"
+
+[author]
+name = "HIlight3R"
+image = "img/avatar.jpg"
+headline = "Just a little bit about me..."
+bio = "A little bit about me"
+links = [
+    { github = "https://github.com/HIlight3R" },
+    { discord = "https://dsc.bio/HIlight3R" },
+    { telegram = "https://t.me/HIlight3R" },
+    { reddit = "https://www.reddit.com/user/HIlight3R" },
+    { steam = "https://steamcommunity.com/id/HIlight3R" },
+    { spotify = "https://open.spotify.com/user/31annn564b5fkncvg6jbafxvlvui" }
+]

@@ -76,10 +76,10 @@ I consider this step no less important than any other. It is through self-study 
 ## My projects
 {{< github repo="HIlight3R/Dominator" >}}
 <br>
-{{< github repo="HIlight3R/HEXYZ" >}}
+{{< github repo="HIlight3R/vkcoinwallet" >}}
 <br>
 {{< github repo="HIlight3R/NoVoidTrades" >}}
 <br>
 {{< github repo="HIlight3R/PlayerLeashing" >}}
 <br>
-{{< github repo="HIlight3R/vkcoinwallet" >}}
+{{< github repo="HIlight3R/HEXYZ" >}}

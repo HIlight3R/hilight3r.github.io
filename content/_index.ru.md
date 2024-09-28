@@ -4,33 +4,30 @@ description: "Это главная страница моего сайта."
 ---
 
 # Хай!
-
 Я *Владислав*, увлеченный разработчик из Москвы, специализирующийся на Java, Kotlin и Python. В настоящее время я
 студент IT-факультета РТУ МИРЭА, постоянно изучаю новые технологии и совершенствую свои навыки. Я также большой
 поклонник проектов с открытым исходным кодом и всегда ищу возможности внести вклад в сообщество.
 
 ## Мои hard-skills...
-
-- :computer: **Языки программирования**: Java, Kotlin, Python, SQL, HTML, CSS
-- :hammer_and_wrench: **Фреймворки**: Spring, Django, Flask, Bukkit
-- :wrench: **Инструменты**: Git, GitHub, Docker
-- :floppy_disk: **Базы данных**: MySQL, SQLite, H2
-- :spiral_notepad: **Среды разработки**: IntelliJ IDEA, PyCharm, VS Code
-- :desktop_computer: **Операционные системы**: Windows, Linux
-- :globe_with_meridians: **Языки**: Русский (родной), Английский (B1)
-- :books: **Сейчас изучаю**: C++, IoT, GitHub Workflows, CI/CD
+- :computer:                **Языки программирования**: Java, Kotlin, Python, SQL, HTML, CSS
+- :hammer_and_wrench:       **Фреймворки**: Spring, Django, Flask, Bukkit
+- :wrench:                  **Инструменты**: Git, GitHub, Docker
+- :floppy_disk:             **Базы данных**: MySQL, SQLite, H2
+- :spiral_notepad:          **Среды разработки**: IntelliJ IDEA, PyCharm, VS Code
+- :desktop_computer:        **Операционные системы**: Windows, Linux
+- :globe_with_meridians:    **Языки**: Русский (родной), Английский (B1)
+- :books:                   **Сейчас изучаю**: C++, IoT, GitHub Workflows, CI/CD
 
 ## ...и soft-skills
-- :jigsaw: **Решение проблем**: Мне нравится решать сложные задачи и находить самые эффективные решения.
-- :handshake: **Командная работа**: Я отличный командный игрок и всегда стараюсь помочь своим коллегам.
-- :speech_balloon: **Коммуникация**: Я умею объяснять сложные вещи простыми словами и всегда открыт для обратной связи.
-- :art: **Креативность**: Я творчески мыслящий человек и всегда ищу новые способы решения проблем.
-- :repeat: **Адаптивность**: Я всегда готов учиться новому и адаптироваться к новым ситуациям.
-- :rocket: **Быстро обучаюсь**: Я могу быстро осваивать новые технологии и инструменты.
+- :jigsaw:          **Решение проблем**: Мне нравится решать сложные задачи и находить самые эффективные решения.
+- :handshake:       **Командная работа**: Я отличный командный игрок и всегда стараюсь помочь своим коллегам.
+- :speech_balloon:  **Коммуникация**: Я умею объяснять сложные вещи простыми словами и всегда открыт для обратной связи.
+- :art:             **Креативность**: Я творчески мыслящий человек и всегда ищу новые способы решения проблем.
+- :repeat:          **Адаптивность**: Я всегда готов учиться новому и адаптироваться к новым ситуациям.
+- :rocket:          **Быстро обучаюсь**: Я могу быстро осваивать новые технологии и инструменты.
 
 ## Мое образование
 {{< timeline >}}
-
 {{< lead >}}
 *Общее образование:*
 {{< /lead >}}
@@ -54,7 +51,8 @@ description: "Это главная страница моего сайта."
 {{< timelineItem icon="check" header="Java. Basic course" subheader="@ Computer Science Center" badge="2021" >}}
 Отсюда началось мое первое серьезное знакомство с программированием. Я познакомился с основами Java и ООП, что дало мне
 серьезный буст в понимании программирования в целом.
-<br><br>
+<br>
+<br>
 {{< button href="https://stepik.org/certificate/66e3d6cbddb8e6944b0f6dd4ca2105d2da7daf06.pdf?language=ru" target="_blank" >}}
 Ссылка на сертификат
 {{< /button >}}
@@ -63,7 +61,8 @@ description: "Это главная страница моего сайта."
 {{< timelineItem icon="check" header="Python Pro" subheader="@ Университет 2035" badge="2023" >}}
 Приняв участие в этой программе подготовки будущих Python-разработчиков, я серьезно подтянул свои знания в этом языке и
 его фреймворках.
-<br><br>
+<br>
+<br>
 {{< button href="https://certificate.2035.university/platform/4f0b4898-f2cd-475d-a6bf-1e2a652099aa.pdf" target="_blank" >}}
 Ссылка на сертификат
 {{< /button >}}
@@ -78,6 +77,8 @@ description: "Это главная страница моего сайта."
 ## Мои проекты
 {{< github repo="HIlight3R/Dominator" >}}
 <br>
+{{< github repo="LuminumBot/Luminum" >}}
+<br>
 {{< github repo="HIlight3R/vkcoinwallet" >}}
 <br>
 {{< github repo="HIlight3R/NoVoidTrades" >}}
@@ -85,3 +86,5 @@ description: "Это главная страница моего сайта."
 {{< github repo="HIlight3R/PlayerLeashing" >}}
 <br>
 {{< github repo="HIlight3R/HEXYZ" >}}
+<br>
+{{< github repo="HIlight3R/hilight3r.github.io" >}}

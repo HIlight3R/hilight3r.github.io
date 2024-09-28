@@ -29,7 +29,6 @@ open-source projects, and I'm always looking for new opportunities to contribute
 
 ## My education
 {{< timeline >}}
-
 {{< lead >}}
 *Common education:*
 {{< /lead >}}
@@ -53,7 +52,8 @@ to work on my projects.
 {{< timelineItem icon="check" header="Java. Basic course" subheader="@ Computer Science Center" badge="2021" >}}
 This was where my first serious acquaintance with programming began. I got acquainted with the basics of Java and OOP,
 which gave me a significant boost in understanding programming as a whole.
-<br><br>
+<br>
+<br>
 {{< button href="https://stepik.org/certificate/66e3d6cbddb8e6944b0f6dd4ca2105d2da7daf06.pdf?language=en" target="_blank" >}}
 Link to certificate
 {{< /button >}}
@@ -62,19 +62,23 @@ Link to certificate
 {{< timelineItem icon="check" header="Python Pro" subheader="@ University 2035" badge="2023" >}}
 By participating in this program for future Python developers, I significantly improved my knowledge of the language and
 its frameworks.
-<br><br>
+<br>
+<br>
 {{< button href="https://certificate.2035.university/platform/4f0b4898-f2cd-475d-a6bf-1e2a652099aa.pdf" target="_blank" >}}
 Link to certificate
 {{< /button >}}
 {{< /timelineItem >}}
 
 {{< timelineItem icon="location-dot" header="Self-education" subheader="@ Internet" badge="2024 ~ now" >}}
-I consider this step no less important than any other. It is through self-study that one can acquire new knowledge faster, cheaper, and more effectively than any courses.
+I consider this step no less important than any other. It is through self-study that one can acquire new knowledge
+faster, cheaper, and more effectively than any courses.
 {{< /timelineItem >}}
 {{< /timeline >}}
 
 ## My projects
 {{< github repo="HIlight3R/Dominator" >}}
+<br>
+{{< github repo="LuminumBot/Luminum" >}}
 <br>
 {{< github repo="HIlight3R/vkcoinwallet" >}}
 <br>
@@ -83,3 +87,5 @@ I consider this step no less important than any other. It is through self-study 
 {{< github repo="HIlight3R/PlayerLeashing" >}}
 <br>
 {{< github repo="HIlight3R/HEXYZ" >}}
+<br>
+{{< github repo="HIlight3R/hilight3r.github.io" >}}

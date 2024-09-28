@@ -15,7 +15,7 @@ open-source projects, and I'm always looking for new opportunities to contribute
 - :floppy_disk: **Databases**: MySQL, SQLite, H2
 - :spiral_notepad: **IDEs**: IntelliJ IDEA, PyCharm, VS Code
 - :desktop_computer: **Operating Systems**: Windows, Linux
-- :globe_with_meridians: **Languages**: Russian (native), English (B1)
+- :globe_with_meridians: **Languages**: Russian (native), English (general - B1, technical - C1)
 - :books: **Currently learning**: C++, IoT, GitHub Workflows, CI/CD
 
 ## ...and soft-skills

@@ -23,7 +23,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        run: hugo --minify
+        run: hugo # --minify # Uncomment when https://github.com/nunocoracao/blowfish/issues/1434 is fixed
 
       - name: Add CNAME
         run: cp CNAME public/

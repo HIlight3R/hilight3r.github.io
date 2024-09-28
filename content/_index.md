@@ -19,12 +19,12 @@ open-source projects, and I'm always looking for new opportunities to contribute
 - :books:                   **Currently learning**: C++, IoT, GitHub Workflows, CI/CD
 
 ## ...and soft-skills
-- :jigsaw:          **Problem-solving**: I love solving complex problems and finding the most efficient solutions.
-- :handshake:       **Teamwork**: I'm a great team player and I always try to help my teammates.
-- :speech_balloon:  **Communication**: I can explain complex things in simple terms, and I'm always open to feedback.
-- :art:             **Creativity**: I'm a creative thinker and I always try to find new ways to solve problems.
-- :repeat:          **Adaptability**: I'm always ready to learn new things and adapt to new situations.
-- :rocket:          **Fast learner**: I can quickly learn new technologies and tools.
+- :jigsaw:          **Problem-solving**: I love solving interesting tasks and finding the most efficient solutions to them.
+- :handshake:       **Teamwork**: I enjoy working in a team and always try to help my teammates.
+- :speech_balloon:  **Communication**: I am always open to feedback and can explain complex things in simple terms.
+- :art:             **Creativity**: Creative thinking helps me find unconventional solutions to problems.
+- :repeat:          **Adaptability**: I am not afraid of difficulties and can adapt to new situations.
+- :rocket:          **Fast learner**: I have no difficulties in mastering new technologies and tools.
 
 
 ## My education

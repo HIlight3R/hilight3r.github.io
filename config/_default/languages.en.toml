@@ -1,10 +1,10 @@
 languageCode = "en"
 languageName = "English"
-weight = 2
+weight = 1
 title = "HIlight3R"
 
 [params]
-displayName = "EN"
+displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"

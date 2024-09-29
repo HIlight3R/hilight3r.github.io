@@ -1,10 +1,10 @@
 languageCode = "ru"
 languageName = "Русский"
-weight = 1
+weight = 2
 title = "HIlight3R"
 
 [params]
-displayName = "RU"
+displayName = "Русский"
 isoCode = "ru"
 rtl = false
 dateFormat = "2 января 2006"

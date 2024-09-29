@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hilight3r
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hilight3r.is-a.dev
+  * I am hilight3r (https://keybase.io/hilight3r) on keybase.
+  * I have a public key ASAJpleMzcp3dmyXwce14OzEaVzJlE_e4rIKJmIs1hse1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012009a6578ccdca77766c97c1c7b5e0ecc4695cc9944fdee2b20a26622cd61b1ed50a",
+      "host": "keybase.io",
+      "kid": "012009a6578ccdca77766c97c1c7b5e0ecc4695cc9944fdee2b20a26622cd61b1ed50a",
+      "uid": "08583772455b436b4359796131e9fd19",
+      "username": "hilight3r"
+    },
+    "merkle_root": {
+      "ctime": 1727605121,
+      "hash": "fd9d0e9dce8329cbd7b8d1759d5f049d45e8aa67e99a99c20d465982a8dabe27951c187b1631370070984d60d021dc3dfa6dab09ab09977b3bbadeaf0345c434",
+      "hash_meta": "a12694e858036bbd1b1222a95b00dfd4e366fd94c3e902c2ca74a4c34f1c0ee2",
+      "seqno": 26155879
+    },
+    "service": {
+      "entropy": "0DM7JpCh8ZRio+UEMvrvsnGR",
+      "hostname": "hilight3r.is-a.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1727605192,
+  "expire_in": 504576000,
+  "prev": "58501e43a58022eb5c90872a575b224975d47c0007db0fa1f34387a49777e711",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCaZXjM3Kd3Zsl8HHteDsxGlcyZRP3uKyCiZiLNYbHtUKp3BheWxvYWTESpcCCMQgWFAeQ6WAIutckIcqV1siSXXUfAAH2w+h80OHpJd35xHEIFkd7VkpKnTt3OMtCnVpRaRmuUJ2goUQZjeurKHgukxiAgHCo3NpZ8RA2uJQMqRwOJMJYPyr9nVc24HIYC9ZziRLiHb3Hm41Lvahcm3iLEBx2S/n4W6rWN/ZMyTQtpM7VlkVOMuCHPyqAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBQkCkzLNpf3MQUGovhMXng/TIR4XzRpSxhUjuwFtANco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hilight3r
+
+==================================================================
